@@ -2,7 +2,7 @@ package basics.p5_type_system
 
 import basic.JavaClass
 import basic.Printer
-import com.sun.org.apache.bcel.internal.classfile.Utility.printArray
+//import com.sun.org.apache.bcel.internal.classfile.Utility.printArray
 
 // because NullPointerException sucks
 fun strLen(s: String) = s.length
